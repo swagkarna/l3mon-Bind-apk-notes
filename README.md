@@ -13,7 +13,18 @@ Video Turoial on Binding l3mon with whatsapp
 https://vimeo.com/548360172
 
 
+Hint : Use Mod apk instead of original apk for Binding
 
-# NOTE:
+
+### NOTE:
 
 Use only l3mon files provided by me and dont use original l3mon files and anyother...It wont work Because i have made some changes in original code
+
+## Disclaimer
+
+Use this only for efucational purpose Not to be used to harm other 
+
+
+Stay Safe Stay legal
+
+
